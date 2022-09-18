@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarcosSuperior
 - 👀 
-- 🌱 I’m currently learning ... Git and GitHub and C#
+- 🌱 I’m currently learning ... Git, GitHub, C# and English language 
 - 💞️ I’m looking to collaborate on ... WebApp
 - 📫 How to reach me ... ?
 
