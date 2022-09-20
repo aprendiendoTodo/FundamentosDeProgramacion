@@ -1,6 +1,6 @@
 - 👋 Hola a todos, 
 - ✨ Sean bienvenidos a este curso de Fundamentos de Programación ✨
-  👀 Nosotros somos
+  👀 Nosotros somos:
         - Marco Julian
         - Nerik Julian
 - 🌱 En este curso revisaremos Git, GitHub, y programación en lenguajes de programación como C# y Java
