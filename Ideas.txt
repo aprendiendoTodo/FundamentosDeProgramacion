@@ -1,1 +1,9 @@
 N que te parece si hacemos un curso de Programación??
+
+En la carpeta Modulos se pueden integrar los diferentes modulos
+documentando cada modulo con su respectivo codigo
+
+Acabo de subir la solución Modulos con un proyecto de consola Modulo1
+pero veo que ya no ya referencias las cosas van cambiando....
+
+
